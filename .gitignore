@@ -1,0 +1,8 @@
+.pnpm-store/
+*.log
+.cache/
+dist/
+coverage/
+yarn-error.log*
+.next/
+node_modules/
